@@ -1,0 +1,6 @@
+D:\Work\TestProtoBuf2\TestProtoBuf2\bin\Debug\TestProtoBuf2.exe.config
+D:\Work\TestProtoBuf2\TestProtoBuf2\bin\Debug\TestProtoBuf2.exe
+D:\Work\TestProtoBuf2\TestProtoBuf2\bin\Debug\TestProtoBuf2.pdb
+D:\Work\TestProtoBuf2\TestProtoBuf2\obj\Debug\TestProtoBuf2.exe
+D:\Work\TestProtoBuf2\TestProtoBuf2\obj\Debug\TestProtoBuf2.pdb
+D:\Work\TestProtoBuf2\TestProtoBuf2\obj\Debug\TestProtoBuf2.csprojResolveAssemblyReference.cache
